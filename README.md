@@ -5,7 +5,7 @@ The Biggest Ideas
 ## Team Members:
 
 - Ayden Kauffman email: aak105@pitt.edu
-- [Insert Team Member Name 2] email: insert your email
+- Lihan Wang email: liw130@pitt.edu
 - [Insert Team Member Name 3] email: insert your email
 
 ## Description and Links to Datasets:
